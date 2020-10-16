@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
-# Name: 
-# Collaborators:
-# Time spent:
+# Name: Rosie Kotelova
+# Collaborators: 
+# Time spent: 
 
 # Hangman Game
 # -----------------------------------
@@ -60,7 +60,7 @@ def is_word_guessed(secret_word, letters_guessed):
     returns: boolean, True if all the letters of secret_word are in letters_guessed;
       False otherwise
     '''
-    # FILL IN YOUR CODE HERE AND DELETE "pass"
+    # FILL IN YOUR CODE HERE AND DELETE "pass"  
     pass
 
 
